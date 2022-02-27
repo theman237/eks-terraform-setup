@@ -24,7 +24,7 @@ $ sudo echo "eksadmin  ALL=(ALL) NOPASSWD:ALL" | sudo tee /etc/sudoers.d/eksadmi
 $ sudo su - eksadmin
 ```
 ``` sh
-$ git clone https://github.com/mylandmarktechs/eks-terraform-setup
+$ git clone https://github.com/theman237/eks-terraform-setup
 $ cd eks-terraform-setup
 # install terraform using a bash shell script
 $ sh terraform-install.sh
